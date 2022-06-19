@@ -2,9 +2,9 @@
 
 int main()
 {
-	int i;
+//	int i;
 	printf("Hello World!\n");
-	scanf(" %d", &i);
-	printf("i = %d\n", i);
+//	scanf(" %d", &i);
+//	printf("i = %d\n", i);
 	return 0;
 }
