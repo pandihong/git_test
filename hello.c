@@ -2,6 +2,7 @@
 
 int main()
 {
+// Cancel the input i variable
 //	int i;
 	printf("Hello World!\n");
 //	scanf(" %d", &i);
