@@ -7,5 +7,7 @@ int main()
 	printf("Hello World!\n");
 //	scanf(" %d", &i);
 //	printf("i = %d\n", i);
+	printf("learn git\n");
 	return 0;
+
 }
