@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+hahhahahahh
+
 int main()
 {
 // Cancel the input i variable
@@ -10,4 +12,7 @@ int main()
 	printf("learn git\n");
 	return 0;
 
+	printf("add new branch dev\n");
+
+	printf("add fea1\n");
 }
